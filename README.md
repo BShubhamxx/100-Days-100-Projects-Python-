@@ -41,6 +41,19 @@ Each project is implemented using my own logic and understanding, with consisten
 
 ---
 
+### Day 4 – Password Generator
+- Built a **Password Generator** that creates strong and random passwords.
+- Allows the user to choose the number of letters, symbols, and numbers.
+- Generates a shuffled password for better security.
+- Concepts used:
+  - `random` module
+  - Lists
+  - Loops
+  - User input
+  - String manipulation
+
+---
+
 ## 🚀 Goal
 - Complete all 100 days with daily commits.
 - Strengthen Python fundamentals.
