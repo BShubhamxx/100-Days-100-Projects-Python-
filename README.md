@@ -54,6 +54,34 @@ Each project is implemented using my own logic and understanding, with consisten
 
 ---
 
+### Day 5 – Reeborg’s World (Hurdles & Maze)
+- On Day 5, I explored **Reeborg’s World**, an interactive platform designed to help beginners learn programming concepts using Python (JavaScript is also supported).
+- The objective was to guide a robot named **Reeborg** to its destination by applying the programming concepts learned so far.
+- Using the game’s built-in functions along with logical thinking, Reeborg successfully completed multiple challenges.
+
+🔗 **Reeborg’s World:** https://reeborg.ca/reeborg.html
+
+#### 🏁 Challenges Completed:
+- Hurdle 1  
+- Hurdle 2  
+- Hurdle 3  
+- Hurdle 4  
+- Final Challenge – Escaping the Maze  
+
+- These challenges were simple yet tricky, requiring proper use of loops, conditions, and functions.
+- This day focused heavily on logic building and problem-solving rather than syntax alone.
+
+#### 📥 Importing the Solution:
+- Solutions can be imported by navigating to **“Additional Options”** in Reeborg’s World and using the **import** feature.
+
+#### Concepts used:
+- Loops (`while`, `for`)
+- Conditional statements
+- Functions
+- Logical reasoning
+
+---
+
 ## 🚀 Goal
 - Complete all 100 days with daily commits.
 - Strengthen Python fundamentals.
@@ -63,4 +91,5 @@ Each project is implemented using my own logic and understanding, with consisten
 
 ## 📌 Note
 More projects will be added as I continue progressing through the challenge.
+
 
