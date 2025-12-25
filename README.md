@@ -82,6 +82,20 @@ Each project is implemented using my own logic and understanding, with consisten
 
 ---
 
+### Day 6 – Hangman Game
+- Built a classic **Hangman** game using Python.
+- A random word is selected, and the player has 6 lives to guess the correct letters.
+- Incorrect guesses reduce lives, while correct guesses reveal the hidden word.
+- ASCII art is used to visually display the hangman stages.
+
+#### Concepts used:
+- Python modules and imports
+- Loops and conditional statements
+- Lists and strings
+- Game logic and user input
+
+---
+
 ## 🚀 Goal
 - Complete all 100 days with daily commits.
 - Strengthen Python fundamentals.
