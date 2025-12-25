@@ -1,17 +1,13 @@
----
+Day 6 – Final Project: Hangman Game
 
-### Day 6 – Final Project: Hangman Game
-- The Day 6 final project, **Hangman**, is developed in **6 step-by-step stages**, where each stage gradually builds toward the complete game.
-- This structured approach makes the logic easier to understand and implement.
-- In the final stage, the project is organized using separate Python files for better modularity.
+The Day 6 final project, Hangman, is divided into 6 step-by-step stages, where each step gradually builds toward the complete game. This structured approach makes the logic easier to understand and implement.
 
-- The game imports:
-  - A list of words for random selection
-  - Game logo and hangman stage visuals (ASCII art)
+In the final stage, the project uses separate files for better organization by importing:
+-A set of words for random selection
+-Game logos and hangman stage visuals
 
-- This modular structure improves code readability and maintainability.
-
-#### 📂 Project Structure:
-- `Hangman_Step_5.py` – Main game logic  
-- `hangman_words.py` – Word list for the game  
-- `hangman_art.py` – Game logo and hangman stages  
+This modular structure helps improve code readability and maintainability.
+📂 Project Structure :
+     [ Hangman_Step_5.py – Main game logic 
+     [ hangman_words.py – Word list for the game 
+     [ hangman_art.py – Game logo and hangman stages
