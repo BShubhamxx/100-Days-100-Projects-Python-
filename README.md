@@ -59,14 +59,7 @@ Each project is implemented using my own logic and understanding, with consisten
 - The objective was to guide a robot named **Reeborg** to its destination by applying the programming concepts learned so far.
 - Using the game’s built-in functions along with logical thinking, Reeborg successfully completed multiple challenges.
 
-🔗 **Reeborg’s World:** https://reeborg.ca/reeborg.html
-
-#### 🏁 Challenges Completed:
-- Hurdle 1  
-- Hurdle 2  
-- Hurdle 3  
-- Hurdle 4  
-- Final Challenge – Escaping the Maze  
+🔗 **Reeborg’s World:** https://reeborg.ca/reeborg.html 
 
 - These challenges were simple yet tricky, requiring proper use of loops, conditions, and functions.
 - This day focused heavily on logic building and problem-solving rather than syntax alone.
