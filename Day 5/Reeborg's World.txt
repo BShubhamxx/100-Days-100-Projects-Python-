@@ -1,13 +1,17 @@
-In Day 5 we come across a website called Reeborg's World, in which we have to guide our Robot(Reeborg) to the goal 
-using our knowledge about what we have learned so far.
+Day 5 – Reeborg’s World (Hurdles & Maze)
 
-Reeborg's world is intended to help beginners to learn programming, using Python (Javascript is also supported).
-You can head over to this link to get going - https://reeborg.ca/reeborg.html
+On Day 5, we explored Reeborg’s World, an interactive platform designed to help beginners learn programming using Python (JavaScript is also supported).
 
-We hepled Reeborg to win the Hurdle race by guiding him path to goal using game's built-in functions and our logic
-to win. Simple yet Tricky game!
+The challenge was to guide a robot named Reeborg to the goal using the concepts learned so far. By combining the game’s built-in functions with logical thinking, we successfully helped Reeborg complete the Hurdle Race and reach the destination. Simple, yet tricky!
 
-This Day 5 contains solution to Hurdle 1, Hurdle 2, Hurdle 3, Hurdle 4 and final part of Day 5- Escaping 
-the Maze.
+🔗 Reeborg’s World: https://reeborg.ca/reeborg.html
 
-You can import this solution by going in "Addition options" and imoprt
+This day includes solutions for:
+
+Hurdle 1, Hurdle 2, Hurdle 3, Hurdle 4
+&
+Final Challenge – Escaping the Maze
+
+To use these solutions, open “Additional Options” in Reeborg’s World and import the code.
+
+This day mainly focuses on logic building, loops, and conditional thinking.
