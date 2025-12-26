@@ -98,7 +98,7 @@ Each project is implemented using my own logic and understanding, with consisten
 - Safely handles non-alphabet characters
 - Circular shifting using modular arithmetic
 
-#### 🧠 Concepts used:
+#### Concepts used:
 - Functions
 - Loops (`while`)
 - Conditional statements
