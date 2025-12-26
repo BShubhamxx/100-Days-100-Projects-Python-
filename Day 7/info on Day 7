@@ -1,0 +1,12 @@
+Like Day 6 day 7 is also divided in parts for better understanding.
+Day 7:
+Caesar Cipher - for encoding and decoding text.
+
+What is Caesar Cipher?
+The Caesar Cipher is a simple, ancient substitution cipher where each letter in a message is 
+shifted a fixed number of places down the alphabet (e.g., A becomes D with a shift of 3). 
+Named after Julius Caesar, it's a basic form of encryption, easily cracked by modern standards
+
+Day & wraps with building a Caesar Cipher program for encoding and decoding text.
+
+SEEE YAAA!!! TO NEXT DAY!
