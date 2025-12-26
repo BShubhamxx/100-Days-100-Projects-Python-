@@ -89,6 +89,24 @@ Each project is implemented using my own logic and understanding, with consisten
 
 ---
 
+### Day 7 – Caesar Cipher Program
+- Built a **Caesar Cipher** program that can encrypt and decrypt messages using a shift-based encryption technique.
+- Each letter in the message is shifted by a user-defined number while keeping numbers, symbols, and spaces unchanged.
+
+#### 🔐 Features:
+- Encode and decode text
+- Safely handles non-alphabet characters
+- Circular shifting using modular arithmetic
+
+#### 🧠 Concepts used:
+- Functions
+- Loops (`while`)
+- Conditional statements
+- Lists
+- String manipulation
+
+---
+
 ## 🚀 Goal
 - Complete all 100 days with daily commits.
 - Strengthen Python fundamentals.
