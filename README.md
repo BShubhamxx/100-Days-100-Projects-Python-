@@ -107,6 +107,21 @@ Each project is implemented using my own logic and understanding, with consisten
 
 ---
 
+### Day 8 – Silent Auction (Bidding Program)
+- Built a **Silent Auction** program in Python where multiple users can place bids secretly.
+- Each bidder enters their name and bid amount, which are stored until the bidding ends.
+- Once bidding is complete, the program determines and displays the highest bidder and the winning amount.
+- Screen clearing is simulated to maintain bid privacy.
+
+#### 🧠 Concepts used:
+- Functions
+- Dictionaries
+- Loops (`while`)
+- Conditional statements
+- Basic algorithm for finding the maximum value
+
+---
+
 ## 🚀 Goal
 - Complete all 100 days with daily commits.
 - Strengthen Python fundamentals.
