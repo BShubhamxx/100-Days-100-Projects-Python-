@@ -122,6 +122,21 @@ Each project is implemented using my own logic and understanding, with consisten
 
 ---
 
+### Day 9 – Calculator Program
+- Built a simple **Calculator** program in Python to perform basic arithmetic operations.
+- Supports addition, subtraction, multiplication, and division using functions stored in a dictionary.
+- Allows users to continue calculations with the previous result or start a new calculation without restarting the program.
+- Displays an ASCII logo at the start for a better user experience.
+
+#### 🧠 Concepts used:
+- Functions
+- Dictionaries
+- Loops
+- Conditional statements
+- Recursion
+
+---
+
 ## 🚀 Goal
 - Complete all 100 days with daily commits.
 - Strengthen Python fundamentals.
